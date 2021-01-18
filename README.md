@@ -28,3 +28,5 @@ add something
 main: add half work and dev: finish another half 
 
 main: add a class
+
+dev: need the class that main add just before
