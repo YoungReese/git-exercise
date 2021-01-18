@@ -19,3 +19,4 @@ add something in dev then push into origin main
 
 add something in dev then use pull request to update main
 
+add someting in dev then main sync it with dev then push
