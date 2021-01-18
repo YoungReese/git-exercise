@@ -24,4 +24,5 @@ add someting in dev then main sync it with dev then push
 git fetch origin main
 
 add something
+
 main: add half work and dev: finish another half 
