@@ -22,3 +22,5 @@ add something in dev then use pull request to update main
 add someting in dev then main sync it with dev then push
 
 git fetch origin main
+
+add something
