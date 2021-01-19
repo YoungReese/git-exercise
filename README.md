@@ -43,3 +43,4 @@ Git is free software distributed under the GPL.
 
 git is free
 
+use vi open README.md and add this
