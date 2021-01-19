@@ -36,3 +36,8 @@ main: update README.md
 dev: update README.md
 
 main: hi branch main
+
+Git is a distributed version control system.
+
+Git is free software distributed under the GPL.
+
