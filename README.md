@@ -44,3 +44,8 @@ Git is free software distributed under the GPL.
 git is free
 
 use vi open README.md and add this
+
+
+
+v1.0 over and v2.0 start!
+
